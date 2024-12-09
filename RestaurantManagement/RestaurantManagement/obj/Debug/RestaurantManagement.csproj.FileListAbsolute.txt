@@ -1,0 +1,178 @@
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.UI2.dll
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\Restaura.B356954C.Up2Date
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.RegisterLabel.resources
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.MainForm.resources
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.LoginForm.resources
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminDashboard.resources
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAdduser.resources
+C:\Users\ROBEL MANALON\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAddCategory.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.dll
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.UI2.dll
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.xml
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAddCategory.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAdduser.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminDashboard.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.LoginForm.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.MainForm.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.RegisterLabel.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\Restaura.B356954C.Up2Date
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Database.mdf
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Database_log.ldf
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Database.mdf
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Database_log.ldf
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.dll
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.UI2.dll
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.xml
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAddCategory.resources
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAdduser.resources
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminDashboard.resources
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.LoginForm.resources
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.MainForm.resources
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.RegisterLabel.resources
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\Restaura.B356954C.Up2Date
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+D:\RestaurantManagement (2)\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Database.mdf
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Database_log.ldf
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.dll
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.UI2.dll
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.xml
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAddCategory.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAdduser.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminDashboard.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.LoginForm.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.MainForm.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.RegisterLabel.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\Restaura.B356954C.Up2Date
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\dje\RestaurantManagement.resources.dll
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminFoodForm.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminOrderForm.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminReport.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminUsersForm.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminReport.dje.resources
+D:\RestaurantManagement\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\dje\RestaurantManagement.resources.dll
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Database.mdf
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Database_log.ldf
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\dje\RestaurantManagement.resources.dll
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.UI2.dll
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAddCategory.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAdduser.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminDashboard.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminFoodForm.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminOrderForm.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminReport.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminUsersForm.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.LoginForm.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.MainForm.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.RegisterLabel.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminReport.dje.resources
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\dje\RestaurantManagement.resources.dll
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\Restaura.B356954C.Up2Date
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+C:\Users\Rico\Documents\GitHub\RestaurantManagement\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\bin\Debug\Database.mdf
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\bin\Debug\Database_log.ldf
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\bin\Debug\dje\RestaurantManagement.resources.dll
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.dll
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.UI2.dll
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.xml
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAddCategory.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAdduser.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminDashboard.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminFoodForm.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminOrderForm.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminReport.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminUsersForm.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.LoginForm.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.MainForm.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.RegisterLabel.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminReport.dje.resources
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\dje\RestaurantManagement.resources.dll
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\Restaura.B356954C.Up2Date
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+D:\Downloads\RestaurantManagement-main\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAddCategory.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminAdduser.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AdminDashboard.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminFoodForm.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminOrderForm.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminReport.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminUsersForm.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.LoginForm.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.MainForm.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.RegisterLabel.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.adminReport.dje.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\Database.mdf
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\Database_log.ldf
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\dje\RestaurantManagement.resources.dll
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.UI2.dll
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\dje\RestaurantManagement.resources.dll
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\Restaura.B356954C.Up2Date
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.AppetizerForm.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.UserForm.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.RamenForm.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.DrinkForm.resources
+C:\Users\Ashly Omanada\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.StatusForm.resources
